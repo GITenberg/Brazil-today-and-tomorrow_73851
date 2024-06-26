@@ -1,0 +1,27 @@
+_repo: Brazil-today-and-tomorrow_73851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elliott, Lilian Elwyn
+    gutenberg_agent_id: '57250'
+    url: http://www.gutenberg.org/2009/agents/57250
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73851'
+language: en
+pgterms:marc904: https://archive.org/details/braziltodaytomor00ellirich/page/n9/mode/2up
+pgterms:marc905: 20220820170036elliott
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1917, pubdate 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Brazil today and tomorrow
+url: http://www.gutenberg.org/ebooks/73851
