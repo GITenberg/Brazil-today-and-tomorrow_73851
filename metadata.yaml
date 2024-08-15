@@ -1,11 +1,16 @@
 _repo: Brazil-today-and-tomorrow_73851
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73851-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliott, Lilian Elwyn
     gutenberg_agent_id: '57250'
     url: http://www.gutenberg.org/2009/agents/57250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73851#Brazil-today-and-tomorrow
 gutenberg_issued: '2024-06-17'
 gutenberg_type: Text
 identifiers:
